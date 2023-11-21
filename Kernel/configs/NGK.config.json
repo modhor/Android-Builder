@@ -21,7 +21,7 @@
         "binPath": ["bin"]
       }
     ],
-    "ccache": true,
+    "enableCcache": true,
     "params": {
       "ARCH": "arm64",
       "CC": "clang/bin/clang",
