@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "NGK_KSU",
+      "repo": "https://github.com/modhor/NGK_android_kernel_xiaomi_sdm845",
+      "branch": "s-caf-ksu",
+      "device": "beryllium",
+      "defconfig": "nogravity_defconfig"
     },
     "toolchains": [
       {
