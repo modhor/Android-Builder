@@ -17,7 +17,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "13",
         "name": "clang",
         "binaryEnv": [
           "bin"
@@ -36,8 +36,8 @@
       }
     },
     "AnyKernel3": {
-      "use": true,
-      "release": true
+      "use": false,
+      "release": false
     },
     "enableKernelSU": true,
     "enableLXC": false
