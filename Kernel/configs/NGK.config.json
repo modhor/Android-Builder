@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "NGK_KSU",
       "repo": "https://github.com/modhor/NGK_android_kernel_xiaomi_sdm845",
-      "branch": "ForMe",
+      "branch": "s-caf-ksu",
       "device": "beryllium",
       "defconfig": "nogravity_defconfig"
     },
